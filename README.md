@@ -1,4 +1,4 @@
-# PCA_Essay_Iris
+# PCA_Essay_Code
 Python code from my second year undergraduate essay on 'Principal Component Analysis' using the famous 'Iris' dataset
 
 ## Language
