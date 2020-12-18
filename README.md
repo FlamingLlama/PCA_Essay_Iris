@@ -1,4 +1,4 @@
-# PCA_Data_Visualisation
+# PCA_Essay_Iris
 Python code from my second year undergraduate essay on 'Principal Component Analysis'
 
 ## Language
