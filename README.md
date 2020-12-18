@@ -8,7 +8,7 @@ Python (in Jupyter Notebook)
 https://archive.ics.uci.edu/ml/datasets/Iris
 
 ## Date Completed
-Dec 2020
+Dec 2020 [first draft]
 
 ## Credit
 [Taken inspiration from mGalarnyk] 
