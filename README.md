@@ -1,5 +1,5 @@
 # PCA_Essay_Code
-Python code from my second year undergraduate essay on 'Principal Component Analysis' using the famous 'Iris' dataset
+Python code from second year undergraduate essay on 'Principal Component Analysis' using the famous 'Iris' dataset
 
 ## Language
 Python (in Jupyter Notebook)
