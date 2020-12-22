@@ -14,4 +14,4 @@ Dec 2020 [first draft]
 [Taken inspiration from mGalarnyk] 
 https://github.com/mGalarnyk/Python_Tutorials/blob/master/Sklearn/PCA/PCA_Data_Visualization_Iris_Dataset_Blog.ipynb
 
-![alt text](https://github.com/FlamingLlama/PCA_Essay_Code/blob/Iris_@D.pdf?raw=true)
+![alt text](Iris_2D.pdf)
