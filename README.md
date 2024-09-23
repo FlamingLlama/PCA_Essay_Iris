@@ -1,5 +1,5 @@
 # PCA_Essay_Code
-Principal Component Analysis Undergraduate Project using The Iris Dataset
+Code from Principal Component Analysis Undergraduate Essay using The Iris Dataset
 ![Iris_2D](https://user-images.githubusercontent.com/63045938/102913828-3d967680-4477-11eb-8a9a-f9e06e6f4cfe.jpg)
 
 ## Language
