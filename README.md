@@ -1,4 +1,4 @@
-# pca-essay
+# pca-iris
 Code from Principal Component Analysis Undergraduate Essay
 
 ## Languages/Environments
