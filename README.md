@@ -1,5 +1,5 @@
 # pca-essay
-Code from Principal Component Analysis Undergraduate Essay using The Iris Dataset
+Code from Principal Component Analysis Undergraduate Essay
 
 ## Languages/Environments
 Python (Jupyter Notebook)
