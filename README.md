@@ -1,4 +1,4 @@
-# pca-iris
+# pca-data-visualisation
 Code from Principal Component Analysis Undergraduate Essay
 
 ## Languages/Environments
